@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/RCfhQtf/silicon-Valley.png" />
+<p align='center'>
+  <img src="https://i.ibb.co/RCfhQtf/silicon-Valley.png" />
+</p>
 
 <h1 align='center'>Silicon Valley API</h1>
 
